@@ -73,10 +73,6 @@ Tech: Java EE (Servlets, JSP), JDBC, MySQL, Apache Tomcat
 
 ### 🎵 Now Playing on Spotify
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hdf2ofk52g7ccufee7s4pgi3jq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
-</p>
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=s5rtcme3oab74fdjr2aktlfw0&cover_image=true&theme=compact&show_offline=false&background_color=272525&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 
