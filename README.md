@@ -9,14 +9,13 @@
 
 ### 🧠 About Me
 - 🎓 Pursuing Master’s in Computer Science at **Texas A&M University (2026)**
-- 💡 Focused on **AI/ML**, **NLP**, **Software Engineering**, and **RAG systems**
-- 🧪 Conducted research in adversarial robustness, embedding models, and DL for Alzheimer’s detection
+- 💡 Focused on **AI/ML**, **NLP**, and **Software Engineering**.
+- 🧪 Conducted research in ML, AI, and DL
 - 🛠️ Constantly tinkering with full-stack apps, cloud deployments, and model evaluations
-- 🧑‍🏫 Data Scientist | Hackathon Finalist | Patent Holder | Researcher | Software Enthusiast
+- 🧑‍🏫 Data Scientist | Software Enthusiast | Researcher 
 
 ---
 
-### 🛠️ Tech Stack
 
 ### 🛠️ Tech Stack
 
@@ -47,17 +46,19 @@
 
 ### 🚀 Featured Projects
 
-🔗 [**ExpenseHive**](https://github.com/HonraoYash/ExpenseHive)  
-Smart expense tracker with JWT auth, PostgreSQL, and real-time insights  
-Tech: React, Node.js, Vite, Express, PostgreSQL, ShadCN  
+🔗 [**Meal Nutrition Analysis using Multimodal Data**](https://github.com/HonraoYash/Meal-Nutrition-Analysis-using-Multi-modal-data)  
+Multimodal deep learning framework for calorie prediction from images, CGM, and demographics  
+Tech: CNN, BiLSTM + Attention, DenseNet, PyTorch  
+📊 RMSE-R: **0.35** vs baseline **0.53** on 25K+ real-world records
 
 🔗 [**NaviGaze**](https://github.com/HonraoYash/NaviGaze)  
 Risk-aware navigation system using satellite imagery & geospatial AI  
 Tech: Flask, OpenRouteService, Pandas, Matplotlib  
 
-🔗 [**Alzheimer’s Diagnosis AI**](https://github.com/HonraoYash/Alzheimer-DL)  
-Deep Learning for early Alzheimer’s detection using MRI scans and neuro scores  
-Tech: XceptionNet, ResNet-18, Hadoop, Decision Tree  
+🔗 [**SwiftBank: A Financial Management System**](https://github.com/HonraoYash/SwiftBank)  
+Full-stack Java banking system for 50+ simulated users, built with MVC and deployed on Tomcat  
+Tech: Java EE (Servlets, JSP), JDBC, MySQL, Apache Tomcat  
+📦 Modular design reduced code duplication by **40%** across 10+ core features
 
 ---
 
@@ -76,6 +77,7 @@ Tech: XceptionNet, ResNet-18, Hadoop, Decision Tree
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hdf2ofk52g7ccufee7s4pgi3jq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
 </p>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=s5rtcme3oab74fdjr2aktlfw0&cover_image=true&theme=compact&show_offline=false&background_color=272525&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 
 ### 🤝 Connect With Me
