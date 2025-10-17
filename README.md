@@ -12,7 +12,7 @@
 - 💡 Focused on **AI/ML**, **NLP**, and **Software Engineering**.
 - 🧪 Conducted research in ML, AI, and DL
 - 🛠️ Constantly tinkering with full-stack apps, cloud deployments, and model evaluations
-- 🧑‍🏫 Data Scientist | Software Enthusiast | Researcher 
+- 🧑‍🏫 AI/ML Engineer | Data Scientist | Software Enthusiast | Researcher 
 
 ---
 
