@@ -47,6 +47,7 @@
 ### 🚀 Featured Projects
 
 🔗 [**VortexDB: High-Performance Vector Database**](https://github.com/HonraoYash/VortexDB)
+
 Custom-built HNSW-like vector database for efficient nearest-neighbor search and semantic retrieval
 Tech: Python, NumPy, FastAPI, HNSW, Faiss-style indexing
 ⚡ Achieved 2.3× faster recall and 35% lower memory usage vs baseline brute-force search across 100K+ embeddings
